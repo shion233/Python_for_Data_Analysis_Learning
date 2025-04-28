@@ -191,7 +191,7 @@ Contributions and suggestions are welcome! If you have improved notes, additiona
 
 For questions or suggestions, please reach out via:
 
-- **Email**: your-email@example.com
+- **Email**: 2874898388@qq.com
 - **GitHub Issues**: File an [Issue](https://github.com/your-username/your-repo-name/issues)
 
 ---
